@@ -1,0 +1,43 @@
+.favorites-page {
+    width: 250%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .tips-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+  }
+  
+  .tips-card .card-body {
+    padding: 20px;
+  }
+  
+  .tips-card .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .tips-card ul {
+    padding-left: 20px;
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  .tips-card li {
+    margin-bottom: 10px;
+  }
+  

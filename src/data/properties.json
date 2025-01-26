@@ -1,0 +1,204 @@
+{
+  "properties": {
+    "forSale": [
+      {
+        "id": 1,
+        "type": "house",
+        "title": "Stunning Victorian Family Home",
+        "price": 750000,
+        "bedrooms": 4,
+        "location": "Colombo 07",
+        "lat": 6.9061,
+        "lng": 79.8706,
+        "dateAdded": "2024-03-15",
+        "description": "Beautiful Victorian house with original features and modern utilities",
+        "mainImage": "/images/image.1.jpg"
+
+      },
+      {
+        "id": 2,
+        "type": "flat",
+        "title": "Modern City Apartment",
+        "price": 425000,
+        "bedrooms": 2,
+        "location": "Galle",
+        "lat": 6.0535,
+        "lng": 80.2210,
+        "dateAdded": "2024-03-14",
+        "description": "Contemporary 2-bed apartment with stunning city views",
+        "mainImage": "/images/image.2.jpg"
+
+      },
+      {
+        "id": 3,
+        "type": "house",
+        "title": "Luxury Chelsea Townhouse",
+        "price": 895000,
+        "bedrooms": 5,
+        "location": "Kandy",
+        "lat": 7.2906,
+        "lng": 80.6337,
+        "dateAdded": "2024-03-13",
+        "description": "Elegant townhouse in prestigious Kandy location",
+        "mainImage": "/images/image.3.jpg"
+
+      },
+      {
+        "id": 4,
+        "type": "flat",
+        "title": "Stylish Docklands Studio",
+        "price": 299999,
+        "bedrooms": 1,
+        "location": "Nuwara Eliya",
+        "lat": 6.9497,
+        "lng": 80.7891,
+        "dateAdded": "2024-03-12",
+        "description": "Modern studio apartment with scenic mountain views",
+        "mainImage": "/images/image.4.jpg"
+
+      },
+      {
+        "id": 5,
+        "type": "house",
+        "title": "Charming Family Semi-Detached",
+        "price": 550000,
+        "bedrooms": 3,
+        "location": "Negombo",
+        "lat": 7.2008,
+        "lng": 79.8737,
+        "dateAdded": "2024-03-11",
+        "description": "Well-maintained family home with beautiful garden",
+        "mainImage": "/images/image.5.jpg"
+
+      },
+      {
+        "id": 6,
+        "type": "house",
+        "title": "Magnificent Georgian Residence",
+        "price": 1250000,
+        "bedrooms": 6,
+        "location": "Batticaloa",
+        "lat": 7.7102,
+        "lng": 81.6925,
+        "dateAdded": "2024-03-10",
+        "description": "Stunning period home with grand proportions",
+        "mainImage": "/images/image.6.jpg"
+
+      },
+      {
+        "id": 7,
+        "type": "flat",
+        "title": "Penthouse with Roof Terrace",
+        "price": 899000,
+        "bedrooms": 3,
+        "location": "Jaffna",
+        "lat": 9.6615,
+        "lng": 80.0255,
+        "dateAdded": "2024-03-09",
+        "description": "Luxury penthouse with panoramic city views",
+        "mainImage": "/images/image.7.jpg"
+
+      }
+    ],
+    "forRent": [
+      {
+        "id": 101,
+        "type": "flat",
+        "title": "Modern Studio Apartment",
+        "price": 1200,
+        "bedrooms": 1,
+        "location": "Anuradhapura",
+        "lat": 8.3114,
+        "lng": 80.4037,
+        "dateAdded": "2024-03-15",
+        "description": "Fully furnished studio in prime location",
+        "mainImage": "/images/image.8.jpg"
+
+      },
+      {
+        "id": 102,
+        "type": "house",
+        "title": "Family Home with Garden",
+        "price": 2500,
+        "bedrooms": 4,
+        "location": "Jaffna",
+        "lat": 9.6615,
+        "lng": 80.0255,
+        "dateAdded": "2024-03-14",
+        "description": "Spacious family home with private garden",
+        "mainImage": "/images/image.9.jpg"
+
+      },
+      {
+        "id": 103,
+        "type": "flat",
+        "title": "Luxury City Apartment",
+        "price": 3000,
+        "bedrooms": 2,
+        "location": "Matara",
+        "lat": 5.9549,
+        "lng": 80.5546,
+        "dateAdded": "2024-03-13",
+        "description": "High-end apartment with stunning ocean views",
+        "mainImage": "/images/image.10.jpg"
+
+      },
+      {
+        "id": 104,
+        "type": "house",
+        "title": "Cozy Terraced House",
+        "price": 1800,
+        "bedrooms": 3,
+        "location": "Gampaha",
+        "lat": 7.0916,
+        "lng": 79.9930,
+        "dateAdded": "2024-03-12",
+        "description": "Well-maintained house in quiet neighborhood",
+        "mainImage": "/images/image.11.jpg"
+
+      },
+      {
+        "id": 105,
+        "type": "flat",
+        "title": "Riverside Apartment",
+        "price": 2200,
+        "bedrooms": 2,
+        "location": "Trincomalee",
+        "lat": 8.5874,
+        "lng": 81.2152,
+        "dateAdded": "2024-03-11",
+        "description": "Modern apartment with river views",
+        "mainImage": "/images/image.12.jpg"
+
+      },
+      {
+        "id": 106,
+        "type": "house",
+        "title": "Victorian Conversion",
+        "price": 2800,
+        "bedrooms": 3,
+        "location": "Badulla",
+        "lat": 6.9897,
+        "lng": 81.0554,
+        "dateAdded": "2024-03-10",
+        "description": "Converted Victorian property with period features",
+        "mainImage": "/images/image.14.jpg"
+
+      },
+      {
+        "id": 107,
+        "type": "flat",
+        "title": "Student Apartment",
+        "price": 950,
+        "bedrooms": 1,
+        "location": "Peradeniya",
+        "lat": 7.2595,
+        "lng": 80.5986,
+        "dateAdded": "2024-03-09",
+        "description": "Perfect for students, close to universities",
+        "mainImage": "/images/image.13.jpg"
+
+      }
+    ]
+  }
+}
